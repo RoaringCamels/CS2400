@@ -1,4 +1,4 @@
-// FUTURE Ivan Revilla
+// Ivan Revilla AMAZING
 package com.company;
 
 import java.util.Scanner;
